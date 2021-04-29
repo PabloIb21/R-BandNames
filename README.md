@@ -19,5 +19,5 @@ npm start
 ## Construido con 🛠️
 
 * [React](https://reactjs.org/) - Librería para SPA
-* [socket.io-cliente](https://socket.io/docs/v3/client-initialization/) - Librería para sockets del lado del cliente
+* [socket.io-client](https://socket.io/docs/v3/client-initialization/) - Librería para sockets del lado del cliente
 * [Chart.js](https://www.chartjs.org/docs/latest/) - Librería para gráficas
