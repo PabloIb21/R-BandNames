@@ -1,6 +1,6 @@
 # BandNames App
 
-_Proyecto de un CRUD de bandas en React utilizando sockets._
+_Proyecto de un CRUD de bandas_
 
 ## Instalación 🔧
 
